@@ -18,7 +18,7 @@ Das 100h totais da disciplina:
 *   **20h:** Fundamentação teórica (análise de textos, debates, elaboração de planos de aula).
 *   **60h:** Observação, planejamento e regência em escolas de Ensino Médio.
 *   **20h:** Construção do instrumento de avaliação, apresentação e socialização das experiências.
-*   **Recursos:** Multimídia, vídeos, documentos legais, artigos, textos, hipertextos e sites educacionais.
+
 
 ---
 
@@ -43,12 +43,12 @@ A avaliação será contínua, baseada na participação e desenvolvimento das s
 
 ---
 
-## Quadro de Horários
+# Quadro de Horários - Estágio Supervisionado IV
 
 | Data | Dia da Semana | Carga Horária | Conteúdo |
 | :--- | :--- | :---: | :--- |
 | **Agosto/2026** | | | |
-| 12/08 | Quarta-feira | 4h | APRESENTAÇÃO DA NOVA RESOLUÇÃO DE ESTÁGIO/ APRESENTAÇÃO DO PLANO DA DISCIPLINA DE ESTÁGIO; |
+| 12/08 | Quarta-feira | 4h | |
 | 17/08 | Segunda-feira | 1h | |
 | 19/08 | Quarta-feira | 4h | |
 | 24/08 | Segunda-feira | 1h | |
@@ -57,7 +57,7 @@ A avaliação será contínua, baseada na participação e desenvolvimento das s
 | **Setembro/2026** | | | |
 | 02/09 | Quarta-feira | 4h | |
 | 07/09 | Segunda-feira | - | *Feriado (Independência do Brasil)* |
-| 09/09 | Quarta-feira | 4h | **(Marco de 20h de carga horária atingido)** |
+| 09/09 | Quarta-feira | 4h | *(Marco de 20h de carga horária atingido)* |
 | 14/09 | Segunda-feira | 1h | |
 | 16/09 | Quarta-feira | 4h | |
 | 21/09 | Segunda-feira | 1h | |
@@ -89,10 +89,11 @@ A avaliação será contínua, baseada na participação e desenvolvimento das s
 | 09/12 | Quarta-feira | 4h | |
 | 14/12 | Segunda-feira | 1h | |
 | 16/12 | Quarta-feira | 4h | |
-| *21/12 a 31/12* | *Recesso* | - | *Recesso Acadêmico* |
+| *18/12 a 31/12* | *Férias* | - | *Férias Docentes e Discentes* |
 | **Janeiro/2027** | | | |
 | 04/01 | Segunda-feira | 1h | |
 | 06/01 | Quarta-feira | 4h | |
 | 11/01 | Segunda-feira | 1h | |
 | 13/01 | Quarta-feira | 4h | |
-| 18/01 | Segunda-feira | 1h | |
+| 15/01 | Sexta-feira | - | *Término do 4º Bimestre (Fim das Aulas Regulares)* |
+| 18/01 a 20/01 | Seg a Qua | - | *Prova Final* |
