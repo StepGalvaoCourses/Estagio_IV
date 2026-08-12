@@ -1,9 +1,54 @@
-# Quadro de Horários - Estágio Supervisionado
+# Página da Disciplina - Estágio Supervisionado IV
+
+**Curso:** Licenciatura em Computação.  
+**C.H.:** 100h.  
+**Semestre/Módulo:** II / VIII (2026).  
+**Professores:** Francisca Ocilma Mendes Monteiro e Stephenson de Sousa Lima Galvão.  
+**Coordenadora:** Kércia Maria Clementino Santos
+
+---
+
+## Ementa Resumida
+Orientações e fundamentos do estágio com imersão no contexto profissional, focando na regência escolar e no Ensino Médio. Vivência de sala de aula e do processo de ensino-aprendizagem da área de computação, visando a preparação para a Regência Compartilhada.
+
+---
+
+## Procedimentos Metodológicos e Recursos
+Das 100h totais da disciplina:
+*   **20h:** Fundamentação teórica (análise de textos, debates, elaboração de planos de aula).
+*   **60h:** Observação, planejamento e regência em escolas de Ensino Médio.
+*   **20h:** Construção do instrumento de avaliação, apresentação e socialização das experiências.
+*   **Recursos:** Multimídia, vídeos, documentos legais, artigos, textos, hipertextos e sites educacionais.
+
+---
+
+## Conteúdo Programático
+*   Elementos da Prática.
+*   Planejamento da ação pedagógica no Ensino Médio: Contextualização curricular.
+*   Metodologias de ensino, Instrumentos avaliativos.
+*   BNCC para ensino de computação - educação básica.
+*   Análise de Livros-textos.
+*   ENADE - prova prática.
+*   Diferentes meios de construção do conhecimento e integração de tecnologias.
+*   Orientação para a elaboração do instrumento de avaliação: Memorial de formação.
+
+---
+
+## Avaliação
+A avaliação será contínua, baseada na participação e desenvolvimento das seguintes 4 notas:
+1.  **Frequência e Participação:** Atividades na IES e socialização do estágio.
+2.  **Ficha de Supervisão:** Registro diário do Estágio de Observação e Regência.
+3.  **Memorial de Formação:** Construção do documento avaliativo.
+4.  **Plano de Aula:** Elaboração de plano modelo ENADE.
+
+---
+
+## Quadro de Horários
 
 | Data | Dia da Semana | Carga Horária | Conteúdo |
 | :--- | :--- | :---: | :--- |
 | **Agosto/2026** | | | |
-| 12/08 | Quarta-feira | 4h | |
+| 12/08 | Quarta-feira | 4h | APRESENTAÇÃO DA NOVA RESOLUÇÃO DE ESTÁGIO/ APRESENTAÇÃO DO PLANO DA DISCIPLINA DE ESTÁGIO; |
 | 17/08 | Segunda-feira | 1h | |
 | 19/08 | Quarta-feira | 4h | |
 | 24/08 | Segunda-feira | 1h | |
@@ -12,7 +57,7 @@
 | **Setembro/2026** | | | |
 | 02/09 | Quarta-feira | 4h | |
 | 07/09 | Segunda-feira | - | *Feriado (Independência do Brasil)* |
-| **09/09** | **Quarta-feira** | **4h** | **Completa as 20h**|
+| 09/09 | Quarta-feira | 4h | **(Marco de 20h de carga horária atingido)** |
 | 14/09 | Segunda-feira | 1h | |
 | 16/09 | Quarta-feira | 4h | |
 | 21/09 | Segunda-feira | 1h | |
