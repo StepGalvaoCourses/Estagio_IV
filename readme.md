@@ -43,7 +43,7 @@ A avaliação será contínua, baseada na participação e desenvolvimento das s
 
 ---
 
-# Quadro de Horários - Estágio Supervisionado IV
+## Quadro de Horários - Estágio Supervisionado IV
 
 | Data | Dia da Semana | Carga Horária | Conteúdo |
 | :--- | :--- | :---: | :--- |
