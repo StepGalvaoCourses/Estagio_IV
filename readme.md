@@ -94,6 +94,30 @@ A avaliação será contínua, baseada na participação e desenvolvimento das s
 | 04/01 | Segunda | 1h | |
 | 06/01 | Quarta | 4h | |
 | 11/01 | Segunda | 1h | |
-| 13/01 | Quarta | 4h | |
-| 15/01 | Sexta-feira | - | *Término do 4º Bimestre (Fim das Aulas Regulares)* |
+| **13/01** | **Quarta** | **4h** | **Último dia** |
+| 15/01 | Sexta | - | *Término do 4º Bimestre (Fim das Aulas Regulares)* |
 | 18/01 a 20/01 | Seg a Qua | - | *Prova Final* |
+
+## Horarios Disciplinas - IFPI Zona Sul
+
+### Quadro de Horários por Turno e Disciplina
+
+| Turno | Disciplina | Horário | Dia da Semana | Professor |
+| :--- | :--- | :--- | :--- | :--- |
+| **Manhã** | Algoritmos e Lógica de Programação | 10:00-12:00 (Seg) e 09:00-12:00 (Qua) | Segunda e Quarta | Stephenson Galvão |
+| | ANÁLISE E PROJ. SISTEMAS | 09:00-12:00 | Quinta | Kelson Carvalho Santos |
+| | Comp. VI Robót. | 09:00-11:00 | Quinta | Stephenson Galvão |
+| | COMPLEMENTAR IV - Inteligência Artificial | 10:00-11:00 (Qua) e 09:00-10:00 (Qui) | Quarta e Quinta | Eltoni Alves Guimaraes |
+| | Desenvolvimento Web Front-End | 10:00-12:00 | Quinta | Wanderson L Costa |
+| | Fundamentos de Redes e Internet | 10:00-12:00 | Segunda | Kelson Carvalho Santos |
+| | Inf. Básica | 11:00-13:00 | Sexta | Eltoni Alves Guimaraes |
+| | Infra. Comp, E Sup. Tec. | 07:00-09:00 | Quinta | Anderson Barros |
+| | Prog. Orient. Obj. | 10:00-11:00 (Ter), 11:00-13:00 (Qua) e 07:00-09:00 (Sex) | Terça, Quarta e Sexta | Eltoni Alves Guimaraes |
+| | Programação Web | 07:00-09:00 | Segunda e Quarta | Jefferson de Souza Silva |
+| | Projeto Integrador | 11:00-13:00 | Terça | Eltoni Alves Guimaraes |
+| | Projeto Integrador II | 09:00-11:00 | Segunda | Jefferson de Souza Silva |
+| | Tóp. Esp. Desenv. | 07:00-10:00 (Ter) e 09:00-12:00 (Qua) | Terça e Quarta | Wanderson L Costa |
+| **Tarde** | Informática Aplicada | 15:00-17:00 | Segunda | Kércia Maria Clementino Santos |
+| | Tecnologia da Inf. e Com. na Construção Civil | 13:00-14:00 | Sexta | Eltoni Alves Guimaraes |
+| **Noite** | Inf. Básica | 18:00-20:00 | Terça | Kércia Maria Clementino Santos |
+| | Tecnologia Aplicada à Administração | 20:00-22:00 | Quinta | Kércia Maria Clementino Santos |
